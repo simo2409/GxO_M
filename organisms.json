@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "Tech & Digital",
+      "organisms": ["Apple", "Google", "Spotify", "Netflix", "Tesla", "Dyson", "Airbnb", "Uber"]
+    },
+    {
+      "name": "Food & Beverage",
+      "organisms": ["Barilla", "Nutella", "Lavazza", "Coca-Cola", "Nespresso", "Red Bull", "Häagen-Dazs", "Campari"]
+    },
+    {
+      "name": "Fashion & Lifestyle",
+      "organisms": ["Nike", "Patagonia", "Zara", "Muji", "Aesop", "Moleskine", "IKEA", "Lego"]
+    },
+    {
+      "name": "Luxury",
+      "organisms": ["Rolex", "Chanel", "Balenciaga", "Brunello Cucinelli", "Louboutin"]
+    },
+    {
+      "name": "Italian Identity",
+      "organisms": ["Fiat", "Vespa", "Bialetti", "Eataly", "Diadora", "Parmigiano Reggiano"]
+    },
+    {
+      "name": "Media & Entertainment",
+      "organisms": ["TED", "Instagram", "Snapchat"]
+    }
+  ]
+}

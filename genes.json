@@ -1,0 +1,71 @@
+{
+  "families": [
+    {
+      "name": "Pattern scientifici e filosofici",
+      "genes": [
+        { "name": "Ricorsività", "description": "Un processo che contiene sé stesso. Ogni iterazione richiama l'origine." },
+        { "name": "Entropia", "description": "Il disordine che tende ad aumentare. L'energia che si disperde in caos." },
+        { "name": "Simbiosi", "description": "Due organismi diversi che vivono traendo vantaggio reciproco." },
+        { "name": "Stratificazione", "description": "Strati sovrapposti che creano profondità. Ogni livello aggiunge significato." },
+        { "name": "Paradosso", "description": "Una verità che si contraddice. Più ti avvicini, più si allontana." },
+        { "name": "Metamorfosi", "description": "La trasformazione radicale di forma. Ciò che era non esiste più." },
+        { "name": "Risonanza", "description": "Una frequenza che ne amplifica un'altra. Il piccolo che diventa enorme." },
+        { "name": "Effimero", "description": "Ciò che esiste per un istante. La bellezza della scomparsa." },
+        { "name": "Frattale", "description": "La stessa forma si ripete a ogni scala. Dal micro al macro, il pattern è identico." },
+        { "name": "Osmosi", "description": "Il passaggio spontaneo attraverso una membrana. L'influenza invisibile tra due mondi." },
+        { "name": "Inerzia", "description": "La resistenza al cambiamento. Un corpo in moto tende a restare in moto." },
+        { "name": "Erosione", "description": "La forza lenta e costante che modella la materia. Il tempo che scolpisce." },
+        { "name": "Emergenza", "description": "Proprietà complesse che nascono da regole semplici. Il tutto è più della somma." },
+        { "name": "Equilibrio instabile", "description": "Lo stato in cui basta un nulla per far crollare tutto. La quiete apparente." },
+        { "name": "Catalisi", "description": "L'elemento che accelera una reazione senza consumarsi. Il facilitatore invisibile." }
+      ]
+    },
+    {
+      "name": "Figure retoriche",
+      "genes": [
+        { "name": "Ossimoro", "description": "Accostamento di opposti che crea un significato nuovo e paradossale." },
+        { "name": "Sinestesia", "description": "Associazione di sfere sensoriali diverse. Un suono caldo, un colore dolce." },
+        { "name": "Anafora", "description": "Ripetizione all'inizio di frasi successive. Ritmo, enfasi, memorabilità." },
+        { "name": "Chiasmo", "description": "Struttura incrociata AB-BA. L'ordine si inverte creando un effetto a specchio." },
+        { "name": "Litote", "description": "Affermare qualcosa negando il suo contrario. L'understatement come eleganza." },
+        { "name": "Sineddoche", "description": "La parte per il tutto. Un dettaglio che rappresenta l'intero universo." },
+        { "name": "Metonimia", "description": "Sostituire un termine con un altro legato per vicinanza. Il contenitore per il contenuto." },
+        { "name": "Onomatopea", "description": "Parole che riproducono un suono. Il suono diventa il messaggio." },
+        { "name": "Iperbole", "description": "L'esagerazione come strumento espressivo. Amplificare per rivelare." },
+        { "name": "Allegoria", "description": "Raccontare una cosa per intenderne un'altra. Il significato nascosto sotto la superficie." },
+        { "name": "Antitesi", "description": "Accostamento di concetti contrari in struttura parallela. Il contrasto che illumina." },
+        { "name": "Ellissi", "description": "L'omissione deliberata. Ciò che non dici pesa più di ciò che dici." }
+      ]
+    },
+    {
+      "name": "Meccanismi psicologici",
+      "genes": [
+        { "name": "Nostalgia", "description": "Il presente che richiama il passato e lo deforma idealizzandolo." },
+        { "name": "Dissonanza cognitiva", "description": "Due credenze incompatibili che convivono. La tensione del contraddirsi." },
+        { "name": "Pareidolia", "description": "Vedere forme familiari dove non esistono. Il volto nelle nuvole." },
+        { "name": "Proiezione", "description": "Attribuire agli altri ciò che è nostro. Lo specchio inconsapevole." },
+        { "name": "Priming", "description": "Uno stimolo precedente che influenza la risposta successiva. L'innesco invisibile." },
+        { "name": "Apofenia", "description": "Trovare connessioni significative nel casuale. Il senso dove non c'è." },
+        { "name": "Effetto uncanny", "description": "Il perturbante: ciò che è quasi familiare ma non del tutto. L'inquietudine del quasi-uguale." },
+        { "name": "Déjà vu", "description": "La sensazione di aver già vissuto l'istante presente. Il tempo che si sovrappone." },
+        { "name": "Flusso", "description": "Lo stato di immersione totale. Quando il tempo scompare nell'azione." },
+        { "name": "Rimozione", "description": "L'assenza deliberata dalla coscienza. Ciò che scompare ma continua ad agire." }
+      ]
+    },
+    {
+      "name": "Principi fisici e naturali",
+      "genes": [
+        { "name": "Attrito", "description": "La resistenza tra due superfici a contatto. La forza che rallenta e genera calore." },
+        { "name": "Rifrazione", "description": "Il cambiamento di direzione quando si passa da un mezzo a un altro. La realtà che si piega." },
+        { "name": "Capillarità", "description": "Il liquido che risale contro la gravità. Il piccolo che vince il grande." },
+        { "name": "Tensione superficiale", "description": "La membrana invisibile che tiene insieme. Il confine che resiste." },
+        { "name": "Eco", "description": "Il suono che ritorna trasformato. La ripetizione che perde e acquista." },
+        { "name": "Ombra", "description": "La forma che esiste solo in relazione alla luce. Il negativo che definisce il positivo." },
+        { "name": "Sedimentazione", "description": "L'accumulo lento che crea strati. Il tempo che costruisce per deposito." },
+        { "name": "Propagazione", "description": "L'onda che si espande da un punto. L'energia che si trasmette senza trasporto di materia." },
+        { "name": "Soglia", "description": "Il punto oltre il quale tutto cambia. Il limite che separa due stati." },
+        { "name": "Saturazione", "description": "Il punto in cui non si può più assorbire. Il troppo che diventa trasformazione." }
+      ]
+    }
+  ]
+}

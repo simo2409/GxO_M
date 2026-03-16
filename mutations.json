@@ -1,0 +1,20 @@
+{
+  "categories": [
+    {
+      "name": "Comunicazione",
+      "mutations": ["Campagna brand", "Campagna prodotto", "Campagna di sensibilizzazione", "Manifesto di brand"]
+    },
+    {
+      "name": "Content",
+      "mutations": ["Piano editoriale", "Serie di contenuti social", "Storytelling long-form", "Podcast concept"]
+    },
+    {
+      "name": "Digital",
+      "mutations": ["Landing page", "Tool interattivo", "Esperienza web", "Filtro AR"]
+    },
+    {
+      "name": "Strategia",
+      "mutations": ["Riposizionamento", "Lancio prodotto", "Co-branding concept", "Brand extension"]
+    }
+  ]
+}
