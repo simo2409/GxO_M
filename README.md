@@ -26,7 +26,7 @@ La combinazione tra i tre genera un brief inatteso. Il vincolo non blocca la cre
 
 Il repository include un tool interattivo che genera combinazioni casuali di Gene, Organismo e Mutazione, con la descrizione del gene estratto e indicazioni per costruire il brief.
 
-→ [Apri il tool](https://simo2409.github.io/GxO_M) *(aggiorna con il tuo URL GitHub Pages)*
+→ [Apri il tool](https://simo2409.github.io/GxO_M/#generator)
 
 ---
 
